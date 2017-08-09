@@ -13,4 +13,3 @@ Device("Device").App("Advantage Shopping").MobileButton("SIGN IN WITH FACEBOOK")
 Device("Device").App("Advantage Shopping").MobileButton("Menu").Tap
 Device("Device").App("Advantage Shopping").MobileList("MobileList_2").Select 1,0
 
-
